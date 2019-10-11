@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570806046 source:c:\codeblock_codes\sorting_techniques\main.c
+	<stdio.h>
+	<stdlib.h>
+
